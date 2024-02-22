@@ -4,3 +4,4 @@ console.log(large);
 const friends = ['Tom', 'John', 'Michel', 'Oliver'];
 const length = friends.filter(name=>name.length<4);
 console.log(length);
+
